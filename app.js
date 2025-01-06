@@ -54,7 +54,7 @@ class Particle
         this.force = 0
         this.friction = 0.98
         this.angle = 0
-        this.ease = 0.3
+        this.ease = 0.1
     }
 
     draw()
